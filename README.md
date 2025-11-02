@@ -1,5 +1,6 @@
 # easyx3D_linear_transform_tmptmp
 Use easyx to visualize the 3d graph with linear transformation functions.
+If you want to add graphs or surfaces, do it as to main.cpp.
 
 IDE：visual studio
 
