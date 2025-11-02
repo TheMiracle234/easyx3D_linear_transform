@@ -1,6 +1,9 @@
 # easyx3D_linear_transform_tmptmp
 Use easyx to visualize the 3d graph with linear transformation functions.
+
 If you want to add graphs or surfaces, do it as to main.cpp.
+
+If you want to use it to see the effect quickly, download the matrixWork.exe and matrixWork.pdb to run the program.
 
 IDE：visual studio
 
@@ -38,4 +41,4 @@ r: restore transformations
 esc：exit
 
 
-This is my third cpp program and the first one to upload on github. I know little about how the program may influent others on the platform. But it means or will mean a lot to me I guess.
+This is my third cpp program and the first one to upload on github. I know little about how the program may influent others on the platform. But it means or will mean a lot to me I guess. It is not up to the level of doing something officially. It's kind of for fun. And the visualization has some bugs I'm not able to solve.
